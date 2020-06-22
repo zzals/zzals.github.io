@@ -5,6 +5,7 @@ subtitle:   "해외학회 모음"
 categories: dev
 tags: papertomath academy list
 comments: true
+published: false
 ---
 ## 개요
 > `데이터 사이언스 관련 해외학회` 목록을 정리해 보았습니다.
