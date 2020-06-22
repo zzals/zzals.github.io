@@ -5,6 +5,7 @@ subtitle:   "Google Colab Preferences and Usage"
 categories: dev
 tags: ml google colab python jupyter notebook 
 comments: true
+published: false
 ---
 
 ## 개요
