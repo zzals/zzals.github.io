@@ -6,6 +6,7 @@ categories: review
 tags: review dl
 comments: true
 header-img: img/review/2019-04-18-review-book-dl-from-scratch-Cover.jpg
+published: false
 ---
 
 ## 개요
