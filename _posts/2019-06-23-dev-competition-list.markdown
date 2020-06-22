@@ -5,6 +5,7 @@ subtitle:   "데이터 과학 경진대회 사이트 모음"
 categories: dev
 tags: competition list
 comments: true
+published: false
 ---
 ## 개요
 > 국내/외 `데이터 과학 경진대회` 목록을 정리해 보았습니다.
