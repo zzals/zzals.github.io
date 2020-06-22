@@ -5,6 +5,7 @@ subtitle:   "Insight, back to basics"
 categories: dev
 tags: ml data science insight analysis basics modeling practice
 comments: true
+published: false
 ---
 
 ## 개요
